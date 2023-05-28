@@ -1,0 +1,12 @@
+.loginBox{
+    display: flex;
+    justify-content: center;
+}
+.loginButton{
+    margin-top: 140px;
+    background-color: darkcyan;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
